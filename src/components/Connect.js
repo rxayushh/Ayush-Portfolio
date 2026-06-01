@@ -44,7 +44,7 @@ function Connect(props) {
 
 
 
-                <ScrollLink id="gmail" className="connect-logo connect-button" to={props.contact} smooth={true} duration={500}>
+                <ScrollLink id="gmail" className="connect-logo connect-button" to={props.Contact} smooth={true} duration={500}>
                     <svg xmlns="http://www.w3.org/2000/svg" aria-label="Gmail" role="img" viewBox="-76.8 -76.8 665.6 665.6" fill="#000000">
                         <g id="SVGRepo_bgCarrier" strokeWidth="0">
                             <rect x="-76.8" y="-76.8" width="665.6" height="665.6" rx="332.8" fill="#6200ea"></rect>

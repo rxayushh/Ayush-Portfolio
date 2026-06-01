@@ -28,14 +28,14 @@ const Home = () => (
         <div className="summary-content">
           
           <h1>
-            Hi, I'm Template Man...!
+            Ayush Rana
           </h1>
           <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+            MCA student specializing in Web Development and Software Engineering with skills in React.js, JavaScript, C++, Python, HTML, and CSS. Passionate about problem-solving, building user-friendly applications, and continuously improving technical and communication skills. Aspiring Software Developer seeking opportunities to contribute and grow in a dynamic technology environment.
           </p>
           
-          <Connect linkedin="http://www.linkedin.com" github="https://github.com" contact="contact"
-          resume="https://docs.google.com/document/d/1EujuYFWxVXZ2PUaJ2uizvK5raMoMsz1KMys-UYpUSk4/edit"/>
+          <Connect linkedin="https://www.linkedin.com/in/meetayushrana/" github="https://github.com/rxayushh"  Contact="contact"></Connect>
+           
           
         </div>
       </div>

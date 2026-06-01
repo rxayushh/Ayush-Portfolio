@@ -13,7 +13,7 @@ import './Background.css';
         <div className="background-container">
           <div className="background-nav">
             <button className={activeView === "education" ? "selected" : ""} onClick={() => setActiveView("education")}>Education</button>
-            <button className={activeView === "experience" ? "selected" : ""} onClick={() => setActiveView("experience")}>Experience</button>
+            {/* <button className={activeView === "experience" ? "selected" : ""} onClick={() => setActiveView("experience")}>Experience</button> */}
           </div>
           <div className="background-content">
             <div className="background-view"> 
