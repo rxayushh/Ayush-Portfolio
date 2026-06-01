@@ -4,22 +4,6 @@ Welcome to the Personal Website Template! This web app is designed to help you c
 
 ![Personal Website Screenshot](./src/components/images/personal_website_template_ss.png)
 
-## Table of Contents
-1. [Key Features](#key-features)
-2. [Technologies Used](#technologies-used)
-3. [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-    - [Running the Project](#running-the-project)
-4. [Personalizing the Project](#personalizing-the-project)
-    - [Changes in the `./public` Folder](#changes-in-the-public-folder)
-    - [Changes in the `./src` Folder](#changes-in-the-src-folder)
-5. [Hosting on GitHub](#hosting-on-github)
-6. [Helpful Websites](#helpful-websites)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Contact](#contact)
-
 ## Key Features
 
 - **Customizable Home Section**: Personalize your name, introduction, and animation.
